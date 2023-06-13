@@ -1,0 +1,135 @@
+[33mcommit ac5bf9e4ffdd0af5899bfbf56a4b593d8964b4ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d438f38 f7cec61
+Author: mmdfish <77087140@qq.com>
+Date:   Tue Aug 25 21:21:08 2020 +0800
+
+    Merge pull request #3 from mmdfish/forCloud
+    
+    fix the issue that run first time does not create database
+
+[33mcommit f7cec61f3d655b0767fd0b5ad56062d5e37de568[m
+Author: mmdfish <77087140@qq.com>
+Date:   Tue Aug 25 21:19:49 2020 +0800
+
+    fix the issue that run first time does not create database
+
+[33mcommit d438f384e263b28cd89fc5140a7ed50a152cc483[m
+Merge: ce125a5 f079753
+Author: mmdfish <77087140@qq.com>
+Date:   Mon Aug 24 22:53:31 2020 +0800
+
+    Merge pull request #1 from mmdfish/forCloud
+    
+    For cloud
+
+[33mcommit f079753639a0c3b6b12c3e34f1ea9be1ed322a32[m
+Author: mmdfish <77087140@qq.com>
+Date:   Mon Aug 24 21:30:05 2020 +0800
+
+    change the huge volume
+
+[33mcommit 942e16b164706888b58262adb2824e4195b370ae[m
+Author: mmdfish <77087140@qq.com>
+Date:   Mon Aug 24 21:20:42 2020 +0800
+
+    fix the huge volume issue
+
+[33mcommit 7d4911362322bc200d140d38dc34f66fe6625a17[m
+Author: mmdfish <77087140@qq.com>
+Date:   Fri Aug 14 00:18:01 2020 +0800
+
+    modify dayk desc and asc
+
+[33mcommit d133aa5258a7916f59e4e9a595f06d933d1b959e[m
+Author: mmdfish <77087140@qq.com>
+Date:   Sun Jul 26 23:57:03 2020 +0800
+
+    fix bug
+
+[33mcommit 7f8623d36a4b0f051c3d109ec70ecaca0f56195b[m
+Author: mmdfish <77087140@qq.com>
+Date:   Thu Jul 23 23:20:32 2020 +0800
+
+    add adjust factor
+
+[33mcommit 71435c9313911f166ad5d3322e192ac7b890c1db[m
+Author: mmdfish <77087140@qq.com>
+Date:   Thu Jul 16 23:51:06 2020 +0800
+
+    add adjust factor
+
+[33mcommit 2dde78ef6447cdc9c1b2d17d63af7e7ecd3fd4c2[m
+Author: mmdfish <77087140@qq.com>
+Date:   Sat Jun 27 23:57:01 2020 +0800
+
+    add macd and other spec
+    
+    add a new table stock_qualification
+    add macd bolling and ma spec
+
+[33mcommit 7759091ec1a75bdf9bc552fe5ee3e4a55e267a63[m
+Author: mmdfish <77087140@qq.com>
+Date:   Thu May 21 00:43:44 2020 +0800
+
+    add hs300
+
+[33mcommit 7699055c01a51acf5eaad973f7130116188a881f[m
+Author: mmdfish <77087140@qq.com>
+Date:   Thu May 21 00:18:23 2020 +0800
+
+    add hs300
+
+[33mcommit 90a0dad9db045887c719dfd67f530e980ce096e6[m
+Author: mmdfish <77087140@qq.com>
+Date:   Sat May 9 00:46:47 2020 +0800
+
+    remove comment
+
+[33mcommit 7d2015a823cc41a66c4798d82332b859dcb7d10f[m
+Author: mmdfish <77087140@qq.com>
+Date:   Sat May 9 00:22:06 2020 +0800
+
+    change run first time for small memory
+
+[33mcommit 272177e728839c2f34aaec0cc7982f1f8198e233[m
+Author: mmdfish <77087140@qq.com>
+Date:   Fri May 8 18:00:53 2020 +0800
+
+    change db path to common
+
+[33mcommit 7747521f1268f927c1629f70082927e179164c23[m
+Author: mmdfish <77087140@qq.com>
+Date:   Fri May 8 17:44:21 2020 +0800
+
+    add common for database path
+
+[33mcommit ce125a58efe1f4b1ecb240426ea649296c5b6dfe[m
+Merge: 16c6ce5 4ae4012
+Author: mmdfish <77087140@qq.com>
+Date:   Thu May 7 00:15:59 2020 +0800
+
+    Merge branch 'master' of https://github.com/mmdfish/StockIndicatorAnalyzer
+
+[33mcommit 16c6ce5384ee3d9a1bcee478647c0fa6d83943ac[m
+Author: mmdfish <77087140@qq.com>
+Date:   Thu May 7 00:15:18 2020 +0800
+
+    update highopen spec
+
+[33mcommit 4ae4012fccea2e1874d2aded700913b17802c70c[m
+Author: mmdfish <77087140@qq.com>
+Date:   Fri May 1 15:52:19 2020 +0800
+
+    Update README.md
+
+[33mcommit 57bdad666baf979a64006cbb1b58623df79246d8[m
+Author: mmdfish <77087140@qq.com>
+Date:   Mon Apr 27 17:40:05 2020 +0800
+
+    version 0.1
+
+[33mcommit 98491a5698b6d04d258ea701ec0d493b8d082c5c[m
+Author: mmdfish <77087140@qq.com>
+Date:   Sun Apr 26 23:16:22 2020 +0800
+
+    Initial commit
